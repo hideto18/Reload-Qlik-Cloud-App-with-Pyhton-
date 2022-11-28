@@ -6,5 +6,6 @@
 Instalação bibliotecas:
 
 pip install qsaas
+:)
 
 ```
