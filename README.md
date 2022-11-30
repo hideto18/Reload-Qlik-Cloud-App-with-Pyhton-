@@ -2,10 +2,3 @@
 
 > Código para reload de aplicações do Qlik Cloud.
 
-```
-Instalação bibliotecas:
-
-pip install qsaas
-:)
-
-```
